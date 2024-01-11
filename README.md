@@ -9,4 +9,4 @@ A página foi construída utilizando:
   <h6>HTML 5 / CSS 3 / JavaScript</h6>
 </div>
 
-Link da página em funcionamento: https://guiisbarbosa.github.io/protjeto-fetch-github-api
+Link da página em funcionamento: https://guiisbarbosa.github.io/projeto-fetch-github-api
